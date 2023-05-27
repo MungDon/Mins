@@ -1,0 +1,51 @@
+.container {
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+   
+}
+.h_kim {
+    
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #e2e2e2;
+}
+.d_min{
+    
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;
+    
+    
+}
+.div_bar{
+
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    
+
+}
+
+.d_min a{
+    
+    width: 100px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_bar a {
+    border: 1px solid #e2e2e2;
+    width: 125px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 45px;
+    border-radius: 5px;
+}
